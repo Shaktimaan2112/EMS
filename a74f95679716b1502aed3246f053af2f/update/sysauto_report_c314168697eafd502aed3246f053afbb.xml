@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <group_list/>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <max_drift/>
+        <name>Overall Certification Staus</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>A4</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="Overall Certification Status">cb25da8697eafd502aed3246f053afcf</report>
+        <report_body><![CDATA[<p><span style="font-family: verdana, geneva; font-size: 14pt;">Good Morning All,</span><br /><span style="font-family: verdana, geneva; font-size: 14pt;">Please download the report attached with the email which contains overall certification status of all employees working in this organization.&nbsp;</span><br /><span style="font-family: verdana, geneva; font-size: 14pt;">Please fell free to raise a ticket for any query.&nbsp;</span><br /><span style="font-family: verdana, geneva; font-size: 14pt;">Thanks and Regards,</span><br /><span style="font-family: verdana, geneva; font-size: 14pt;">System</span></p>]]></report_body>
+        <report_title>Overall Certification Status of All Employees</report_title>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-11-18 06:48:26</run_start>
+        <run_time>1970-01-01 03:30:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-18 07:10:29</sys_created_on>
+        <sys_id>c314168697eafd502aed3246f053afbb</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Overall Certification Staus</sys_name>
+        <sys_package display_value="Employee_Management_System" source="x_942627_employee">a74f95679716b1502aed3246f053af2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee_Management_System">a74f95679716b1502aed3246f053af2f</sys_scope>
+        <sys_update_name>sysauto_report_c314168697eafd502aed3246f053afbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 09:13:09</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list>6816f79cc0a8016401c5a33be04be441,62826bf03710200044e0bfc8bcbe5df1,144da2911b3b5110cdb57596cc4bcbff,cd1105261b531110cdb57596cc4bcbce</user_list>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>

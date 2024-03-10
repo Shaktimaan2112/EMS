@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f8f9523971ab1502aed3246f053af76" label="Employee" max_length="40" name="x_942627_employee_employee" type="collection">
+        <element label="Emergency Contact Person Name" mandatory="true" max_length="100" name="emergency_contact_person_name" type="string"/>
+        <element label="Emergency Contact Person Relation" mandatory="true" max_length="20" name="emergency_contact_person_relation" type="string"/>
+        <element label="Emergency Contact(Phone)" mandatory="true" max_length="10" name="emergency_contact_phone" type="string"/>
+        <element label="Emergency Email" mandatory="true" max_length="50" name="emergency_email" type="string"/>
+        <element label="Employee Address" mandatory="true" max_length="40" name="employee_address" type="string"/>
+        <element label="Employee Date Of Birth" mandatory="true" max_length="40" name="employee_date_of_birth" type="glide_date"/>
+        <element label="Employee email" mandatory="true" max_length="30" name="employee_email" type="string"/>
+        <element label="Employee Experience(in yrs.)" mandatory="true" max_length="15" name="employee_experience" type="decimal"/>
+        <element label="Employee Full Name" mandatory="true" max_length="100" name="employee_full_name" type="string_full_utf8"/>
+        <element label="Employee Joining Date" mandatory="true" max_length="40" name="employee_joining_date" type="glide_date"/>
+        <element label="Employee Location" mandatory="true" max_length="100" name="employee_location" type="string"/>
+        <element label="Employee username" mandatory="true" max_length="15" name="employee_username" type="string"/>
+        <element choice="1" label="Experience Type" mandatory="true" max_length="40" name="experience_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Application/Software Developer" value="developer"/>
+                <element inactive_on_update="false" label="Database Administrator" value="database admin"/>
+                <element inactive_on_update="false" label="Database Architect" value="database architect"/>
+                <element inactive_on_update="false" label="Product Manager" value="product manager"/>
+                <element inactive_on_update="false" label="Project Management" value="project management"/>
+                <element inactive_on_update="false" label="Scrum Master" value="scrum master"/>
+                <element inactive_on_update="false" label="System Administrator" value="system admin"/>
+                <element inactive_on_update="false" label="UI/UX Designer" value="ui ux designer"/>
+                <element inactive_on_update="false" label="UI/UX Developer" value="ui ux developer"/>
+            </choice>
+        </element>
+        <element label="Mobile No." mandatory="true" max_length="10" name="mobile_no" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Employee Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" hint="For example if your date of birth is 27th May,1998 then you should type 27-05-1998 " label="Employee Date of Birth" mandatory="true" max_length="10" name="u_employee_date_of_birth" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Date Of Birth" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

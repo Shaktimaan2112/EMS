@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_942627_employee_employee" version="2" view="employee">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - employee" name="x_942627_employee_employee" related_list="NULL" sys_domain="global" view="2ada29ef971ab1502aed3246f053affa">3aea6923975ab1502aed3246f053afbe</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:b9edf0ca0a0a0b010035de2d6b579a03</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:23:40</sys_created_on>
+            <sys_id>76ea6923975ab1502aed3246f053afbf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:23:40</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - employee" name="x_942627_employee_employee" related_list="NULL" sys_domain="global" view="2ada29ef971ab1502aed3246f053affa">3aea6923975ab1502aed3246f053afbe</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:b1d2db5377311110114329354f5a997e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:23:40</sys_created_on>
+            <sys_id>7aea6923975ab1502aed3246f053afbf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:23:40</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - employee" name="x_942627_employee_employee" related_list="NULL" sys_domain="global" view="2ada29ef971ab1502aed3246f053affa">3aea6923975ab1502aed3246f053afbe</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:0e7a34a0d732120058c92cf65e6103cd</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:23:40</sys_created_on>
+            <sys_id>7eea6923975ab1502aed3246f053afbf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:23:40</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - employee" name="x_942627_employee_employee" related_list="NULL" sys_domain="global" view="2ada29ef971ab1502aed3246f053affa">3aea6923975ab1502aed3246f053afbe</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:bb260316c301120095ccd02422d3aed9</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:23:40</sys_created_on>
+            <sys_id>72ea6923975ab1502aed3246f053afc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:23:40</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Employee - employee</calculated_name>
+            <filter/>
+            <name>x_942627_employee_employee</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:23:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3aea6923975ab1502aed3246f053afbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employee - employee</sys_name>
+            <sys_package display_value="Employee_Management_System" source="x_942627_employee">a74f95679716b1502aed3246f053af2f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee_Management_System">a74f95679716b1502aed3246f053af2f</sys_scope>
+            <sys_update_name>sys_ui_related_x_942627_employee_employee_employee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:23:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="employee" name="employee">2ada29ef971ab1502aed3246f053affa</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
