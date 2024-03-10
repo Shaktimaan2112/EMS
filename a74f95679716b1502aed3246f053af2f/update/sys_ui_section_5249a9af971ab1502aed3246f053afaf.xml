@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>830d94729722f1902aed3246f053af38</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>6e33d92697f802102aed3246f053af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>employee_full_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>430d94729722f1902aed3246f053af45</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>ea33d92697f802102aed3246f053af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>employee_email</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>470d94729722f1902aed3246f053af45</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>e233d92697f802102aed3246f053af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>mobile_no</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>4b0d94729722f1902aed3246f053af45</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>ea33d92697f802102aed3246f053af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>employee_username</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>4f0d94729722f1902aed3246f053af45</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>e233d92697f802102aed3246f053af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>employee_address</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>430d94729722f1902aed3246f053af46</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>ea33d92697f802102aed3246f053af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_employee_date_of_birth</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>470d94729722f1902aed3246f053af46</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>e233d92697f802102aed3246f053af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,27 @@
             <element>employee_location</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-20 06:03:41</sys_created_on>
-            <sys_id>4b0d94729722f1902aed3246f053af46</sys_id>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>ea33d92697f802102aed3246f053af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-20 06:03:41</sys_updated_on>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_manager</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-10 11:43:13</sys_created_on>
+            <sys_id>e233d92697f802102aed3246f053af1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_942627_employee_employee" sys_domain="global" view="Default view">5249a9af971ab1502aed3246f053afaf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-10 11:43:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
