@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="experience_type" table="x_942627_employee_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>experience_type</element>
+            <name>x_942627_employee_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:06:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>experience_type</sys_name>
+            <sys_package display_value="Employee_Management_System" source="x_942627_employee">a74f95679716b1502aed3246f053af2f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee_Management_System">a74f95679716b1502aed3246f053af2f</sys_scope>
+            <sys_update_name>sys_choice_x_942627_employee_employee_experience_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:06:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Administrator</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:09:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:09:51</sys_updated_on>
+            <value>database admin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Architect</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:08:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:08:41</sys_updated_on>
+            <value>database architect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application/Software Developer</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:06:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:08:57</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product Manager</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:10:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:10:19</sys_updated_on>
+            <value>product manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:11:12</sys_updated_on>
+            <value>project management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrum Master</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:10:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:10:34</sys_updated_on>
+            <value>scrum master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Administrator</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:08:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:09:58</sys_updated_on>
+            <value>system admin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI/UX Designer</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:12:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:12:20</sys_updated_on>
+            <value>ui ux designer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI/UX Developer</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 09:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 09:12:26</sys_updated_on>
+            <value>ui ux developer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

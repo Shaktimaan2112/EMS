@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="employee_experience" label="Employee Experience(in yrs.)" language="en" table="x_942627_employee_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>employee_experience</element>
+            <help/>
+            <hint/>
+            <label>Employee Experience(in yrs.)</label>
+            <language>en</language>
+            <name>x_942627_employee_employee</name>
+            <plural>Employee Experience(in yrs.)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 08:50:39</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Employee Experience(in yrs.)</sys_name>
+            <sys_package display_value="Employee_Management_System" source="x_942627_employee">a74f95679716b1502aed3246f053af2f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee_Management_System">a74f95679716b1502aed3246f053af2f</sys_scope>
+            <sys_update_name>sys_documentation_x_942627_employee_employee_employee_experience_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 08:12:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

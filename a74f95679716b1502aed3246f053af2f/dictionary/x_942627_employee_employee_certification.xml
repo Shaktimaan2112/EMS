@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3b11a13997a2bd502aed3246f053af51" label="Employee Certification" max_length="40" name="x_942627_employee_employee_certification" type="collection">
+        <element label="Certification Name" mandatory="true" max_length="500" name="certification_name" type="string_full_utf8"/>
+        <element label="Certification Number" mandatory="true" max_length="50" name="certification_number" type="string_full_utf8"/>
+        <element choice="1" label="Certification Status" mandatory="true" max_length="40" name="certification_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="0" value="in progress"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Expired" sequence="2" value="expired"/>
+            </choice>
+        </element>
+        <element label="Employee Number" max_length="32" name="number" read_only="true" reference="x_942627_employee_employee" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Certifications Want to pursue" max_length="40" name="u_certifications_want_to_pursue" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CAS-PA: Certified Application Specialist – Performance Analytics" sequence="0" value="CAS 01"/>
+                <element inactive_on_update="false" label="CIS-APM: Certified Implementation Specialist - Application Portfolio Management" sequence="1" value="CIS 01"/>
+                <element inactive_on_update="false" label="CIS-CPG: Certified Implementation Specialist - Cloud Provisioning and Governance" sequence="2" value="CIS 02"/>
+                <element inactive_on_update="false" label="CIS-CSM: Certified Implementation Specialist - Customer Service Management" sequence="3" value="CIS 03"/>
+                <element inactive_on_update="false" label="CIS-ITSM: Certified Implementation Specialist - IT Service Management" sequence="4" value="CIS 04"/>
+                <element inactive_on_update="false" label="CIS-EM: Certified Implementation Specialist - Event Mangement" sequence="5" value="CIS 05"/>
+                <element inactive_on_update="false" label="CIS-FSM: Certified Implementation Specialist - Field Service Mangement" sequence="6" value="CIS 06"/>
+                <element inactive_on_update="false" label="CIS-Discovery: Certified Implementation Specialist - Discovery" sequence="7" value="CIS 07"/>
+                <element inactive_on_update="false" label="CIS-HAM: Certified Implementation Specialist – Hardware Asset Management" sequence="8" value="CIS 08"/>
+                <element inactive_on_update="false" label="CIS-SAM: Certified Implementation Specialist - Software Asset Management" sequence="9" value="CIS 09"/>
+                <element inactive_on_update="false" label="CIS-SM: Certified Implementation Specialist - Service Mapping" sequence="10" value="CIS 10"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="number"/>
+        </index>
+    </element>
+</database>

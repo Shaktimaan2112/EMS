@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_certifications_want_to_pursue" table="x_942627_employee_employee_certification" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_certifications_want_to_pursue</element>
+            <name>x_942627_employee_employee_certification</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_certifications_want_to_pursue</sys_name>
+            <sys_package display_value="Employee_Management_System" source="x_942627_employee">a74f95679716b1502aed3246f053af2f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee_Management_System">a74f95679716b1502aed3246f053af2f</sys_scope>
+            <sys_update_name>sys_choice_x_942627_employee_employee_certification_u_certifications_want_to_pursue</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAS-PA: Certified Application Specialist – Performance Analytics</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CAS 01</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-APM: Certified Implementation Specialist - Application Portfolio Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 01</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-CPG: Certified Implementation Specialist - Cloud Provisioning and Governance</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 02</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-CSM: Certified Implementation Specialist - Customer Service Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 03</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-ITSM: Certified Implementation Specialist - IT Service Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 04</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-EM: Certified Implementation Specialist - Event Mangement</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 05</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-FSM: Certified Implementation Specialist - Field Service Mangement</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 06</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-Discovery: Certified Implementation Specialist - Discovery</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 07</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-HAM: Certified Implementation Specialist – Hardware Asset Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 08</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-SAM: Certified Implementation Specialist - Software Asset Management</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 09</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_certifications_want_to_pursue</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS-SM: Certified Implementation Specialist - Service Mapping</label>
+            <language>en</language>
+            <name>x_942627_employee_employee_certification</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-18 06:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-18 06:11:58</sys_updated_on>
+            <value>CIS 10</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
