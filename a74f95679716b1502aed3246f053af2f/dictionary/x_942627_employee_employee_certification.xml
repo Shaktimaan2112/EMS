@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="3b11a13997a2bd502aed3246f053af51" label="Employee Certification" max_length="40" name="x_942627_employee_employee_certification" type="collection">
+        <element label="Certification Image" max_length="255" name="certification_image" type="user_image"/>
         <element label="Certification Name" mandatory="true" max_length="500" name="certification_name" type="string_full_utf8"/>
         <element label="Certification Number" mandatory="true" max_length="50" name="certification_number" type="string_full_utf8"/>
         <element choice="1" label="Certification Status" mandatory="true" max_length="40" name="certification_status" type="choice">
